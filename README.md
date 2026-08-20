@@ -59,9 +59,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Developed By
 
-**Name:** Mageshwaran T.A
+**Name:** JEEVAN IRUDHAYAM L
 
-**Register No:** 212224230146
+**Register No:** 26014247
 
 ## Output
 
@@ -75,7 +75,8 @@ plt.title("Original Image")
 plt.axis("off")
 plt.show()
 ~~~
-<img width="473" height="522" alt="image" src="https://github.com/user-attachments/assets/9df96033-637b-43c4-9545-864998a1fa02" />
+<img width="295" height="502" alt="Screenshot 2026-08-20 172227" src="https://github.com/user-attachments/assets/27059f8b-f693-4c7c-a4cf-26d8a0cdbe3e" />
+
 
 ~~~
 import cv2
@@ -87,7 +88,8 @@ plt.axis("off")
 plt.show()
 ~~~
 
-<img width="494" height="504" alt="image" src="https://github.com/user-attachments/assets/355d33a6-184c-4ef2-aef2-1d6943c95d04" />
+ <img width="289" height="504" alt="Screenshot 2026-08-20 172309" src="https://github.com/user-attachments/assets/7393b98b-6062-4f9e-8a9c-6dafa25838f5" />
+
 
 ~~~
 import cv2
@@ -100,7 +102,8 @@ plt.axis("off")
 plt.show()
 ~~~
 
-<img width="542" height="510" alt="image" src="https://github.com/user-attachments/assets/59418527-c870-45d7-8adc-15a4cbdc4991" />
+<img width="323" height="492" alt="Screenshot 2026-08-20 172324" src="https://github.com/user-attachments/assets/dafdc8bd-fc54-4802-b19c-646d34e41776" />
+
 
 ~~~
 import cv2
@@ -117,8 +120,7 @@ plt.title("Adaptive Thresholding")
 plt.axis("off")
 plt.show()
 ~~~
-
-<img width="498" height="507" alt="image" src="https://github.com/user-attachments/assets/bbb42052-7b1d-4034-a99f-0147731d30c6" />
+<img width="301" height="528" alt="Screenshot 2026-08-20 172348" src="https://github.com/user-attachments/assets/fbe81b70-6949-441a-86fc-552824cec2dd" />
 
 ~~~
 
@@ -134,7 +136,7 @@ plt.title("Otsu's Thresholding")
 plt.axis("off")
 plt.show()
 ~~~
-<img width="483" height="509" alt="image" src="https://github.com/user-attachments/assets/b2f18eae-7ffa-4afe-a1e8-853102ac0bab" />
+<img width="276" height="512" alt="Screenshot 2026-08-20 172407" src="https://github.com/user-attachments/assets/266b205c-b552-4555-af09-048fe63b143a" />
 
 ## Result
 
